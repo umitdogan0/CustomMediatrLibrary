@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMediator.Api", "CustomMediator.Api\CustomMediator.Api.csproj", "{8E1703F0-80AB-41EA-A394-6C9469757861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomMediator.Library", "CustomMediator.Library\CustomMediator.Library.csproj", "{AF90E0C0-DE6C-47A2-9AFF-0EE6A6096CA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E1703F0-80AB-41EA-A394-6C9469757861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E1703F0-80AB-41EA-A394-6C9469757861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E1703F0-80AB-41EA-A394-6C9469757861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E1703F0-80AB-41EA-A394-6C9469757861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF90E0C0-DE6C-47A2-9AFF-0EE6A6096CA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF90E0C0-DE6C-47A2-9AFF-0EE6A6096CA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF90E0C0-DE6C-47A2-9AFF-0EE6A6096CA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF90E0C0-DE6C-47A2-9AFF-0EE6A6096CA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
